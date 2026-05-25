@@ -1,0 +1,20 @@
+{
+  "short_name": "Lova Reddy",
+  "name": "Dwarampudi Lova Reddy — Portfolio",
+  "icons": [
+    {
+      "src": "favicon.jpg",
+      "sizes": "720x922",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "pfp.jpg",
+      "sizes": "720x922",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
