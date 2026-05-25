@@ -1,0 +1,6 @@
+{
+  "buildCommand": "PUBLIC_URL=https://lokiverse.dev npm run build",
+  "env": {
+    "PUBLIC_URL": "https://lokiverse.dev"
+  }
+}

@@ -11,7 +11,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL(
   import.meta.url
 ).toString();
 
-const pdf = "/resume.pdf";
+const pdf = `${process.env.PUBLIC_URL}/resume.pdf`;
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
